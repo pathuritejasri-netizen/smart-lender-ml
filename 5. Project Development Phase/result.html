@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<title>Result</title>
+
+<link rel="stylesheet"
+href="{{ url_for('static', filename='style.css') }}">
+
+</head>
+
+<body>
+
+<h1>Prediction Result</h1>
+
+<h2>{{ prediction }}</h2>
+
+<p>Gender : {{ gender }}</p>
+
+<p>Income : {{ income }}</p>
+
+<p>Loan Amount : {{ loan }}</p>
+
+<a href="/">Go Back</a>
+
+</body>
+
+</html>
