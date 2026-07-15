@@ -144,19 +144,25 @@ http://127.0.0.1:5000
 # 👨‍💻 Team
 
 **Pathuri Tejasri** *(Team Lead)*
+
 pathuritejasri@gmail.com
+
 GitHub: https://github.com/pathuritejasri-netizen/smart-lender-ml
 
 **Hima Bindu Mareedu**
+
 bindu.mareedu2004@gmail.com
 
 **Raghava Garlapati**
+
 raghavagarlapati379@gmail.com
 
 **Haneef Jani Shaik**
+
 skhaneef023@gmail.com
 
 **Triveni Thumarada**
+
 trivenithumarada@gmail.com
 
 ---
