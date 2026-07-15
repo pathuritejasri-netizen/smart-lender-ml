@@ -69,7 +69,7 @@ Smart_Lender/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Smart-Lender.git
+git clone https://github.com/pathuritejasri-netizen/smart-lender-ml
 cd Smart-Lender
 ```
 
@@ -145,7 +145,7 @@ http://127.0.0.1:5000
 
 **Pathuri Tejasri** *(Team Lead)*
 pathuritejasri@gmail.com
-GitHub: 
+GitHub: https://github.com/pathuritejasri-netizen/smart-lender-ml
 
 **Hima Bindu Mareedu**
 bindu.mareedu2004@gmail.com
